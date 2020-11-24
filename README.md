@@ -15,6 +15,7 @@ Alt-H1
 Alt-H2
 ------
 
+Emphasis
 
 Emphasis, aka italics, with *asterisks* or _underscores_.
 
